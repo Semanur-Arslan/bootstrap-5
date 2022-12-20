@@ -1,0 +1,12 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+#header .container-fluid {
+    background-image: url(/img/bg-img.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    height: 100vh;
+    width: 100%;
+    margin-bottom: 100px;
+}
+
